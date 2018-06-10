@@ -5,3 +5,7 @@ var kittens = [
   "Otis",
   "Garfield"
   ];
+  
+function() {
+  
+}
