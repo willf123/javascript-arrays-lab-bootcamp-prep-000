@@ -6,6 +6,6 @@ var kittens = [
   "Garfield"
   ];
   
-function() {
+function destructivelyAppendKitten(name) {
   
 }
